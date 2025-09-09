@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/li zequn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="li zequn" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/li zequn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="li zequn" height="30" width="40" /></a> -->
 <a href="https://github.com/wisdomzq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:sam2028632217@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.kaggle.com/wisdom1246"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -37,4 +37,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wisdomzq&show_icons=true&locale=en" alt="wisdomzq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wisdomzq&" alt="wisdomzq" /></p>
