@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm wisdom</h1>
 
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<!-- <a href="https://www.youtube.com/c/li zequn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="li zequn" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/@Zequn-Li" target="blank"><img src="https://img.shields.io/badge/YOUTUBE-76624c?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube"/></a> 
 <a href="https://github.com/wisdomzq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:sam2028632217@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.kaggle.com/wisdom1246"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -30,17 +29,30 @@ Here are some ideas to get you started:
 </p>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">🔭 Languages and Tools:</h2>
 <p align="center"> <div align="center">
   <!-- 使用更美观的动态技能图标 -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,linux,html,css,js,git,vscode,latex,github,docker&perline=8" />
+
   
-  <!-- 添加技能动画卡片 - 改进布局 -->
-  
+ <h2 align="center">👨‍💻 Repositories: </h2>
+  <a href="https://github.com/wisdomzq/medical-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wisdomzq&repo=medical-system&theme=github&hide_border=false&title_color=76624c" width="40%" />
+  </a>
+</div>
+
+<!-- 添加项目按钮 -->
+<div align="center">
+ <a href="https://github.com/wisdomzq?tab=repositories">
+    <img src="https://img.shields.io/badge/Show More-%eee8aa?style=for-the-badge&logo=github" alt="Show More" />
+  </a> 
+</div>
+
+  <h2 align="center">📫GitHub Stats:</h2>
 </div> </p>
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wisdomzq&theme=github" width="50%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisdomzq&theme=github" width="50%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wisdomzq&theme=github" width="40%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisdomzq&theme=github" width="40%" />
 </div>
 
