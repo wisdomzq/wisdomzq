@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,linux,html,css,js,git,vscode,latex,github,docker&perline=8" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
 </div> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisdomzq&show_icons=true&locale=en&layout=compact" alt="wisdomzq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisdomzq&show_icons=true&locale=en&layout=compact" alt="wisdomzq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wisdomzq&show_icons=true&locale=en" alt="wisdomzq" /></p>
 
