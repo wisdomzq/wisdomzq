@@ -38,8 +38,9 @@ Here are some ideas to get you started:
   <!-- 添加技能动画卡片 - 改进布局 -->
   
 </div> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wisdomzq&show_icons=true&locale=en&layout=compact" alt="wisdomzq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wisdomzq&show_icons=true&locale=en" alt="wisdomzq" /></p>
+<div align="center">
+<!-- 添加动态数据卡片 -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wisdomzq&theme=github" width="50%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wisdomzq&theme=github" width="50%" />
+</div>
 
