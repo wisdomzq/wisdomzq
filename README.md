@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 </p>
 </p>
 
-<h2 align="center">🔭 Languages and Tools:</h2>
+<h2 align="center">🔭 Languages and Tools: 🔭</h2>
 <p align="center"> <div align="center">
   <!-- 使用更美观的动态技能图标 -->
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,linux,html,css,js,git,vscode,latex,github,docker&perline=8" />
 
   
- <h2 align="center">👨‍💻 Repositories: </h2>
+ <h2 align="center">👨‍💻 Repositories: 👨‍💻</h2>
   <a href="https://github.com/wisdomzq/medical-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wisdomzq&repo=medical-system&theme=github&hide_border=false&title_color=76624c" width="40%" />
   </a>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </a> 
 </div>
 
-  <h2 align="center">📫GitHub Stats:</h2>
+  <h2 align="center">📫 GitHub Stats: 📫</h2>
 </div> </p>
 <div align="center">
 <!-- 添加动态数据卡片 -->
